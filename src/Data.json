@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Tokyo, Japan",
+        "price": "1400",
+        "picture": "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Experience the bustling metropolis of Tokyo, Japan's capital city. Explore traditional temples, modern skyscrapers, and vibrant neighborhoods like Shibuya and Shinjuku. Immerse yourself in Japanese culture, sample delicious cuisine, and visit iconic landmarks like the Tokyo Tower. Stay at the luxurious Aman Tokyo hotel, offering panoramic city views, spacious rooms, and a tranquil spa.",
+        "seeMore": false
+    },
+    {
+        "id": 2,
+        "name": "Cape Town, South Africa",
+        "price": "1100",
+        "picture": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Discover the stunning beauty of Cape Town, nestled between mountains and the sea. Enjoy breathtaking views from Table Mountain, explore the colorful Bo-Kaap neighborhood, and visit the scenic Cape Point. Experience the vibrant food and wine scene, take a boat trip to Robben Island, and relax on the pristine beaches. Stay at the luxurious Twelve Apostles Hotel and Spa, offering stylish accommodations, award-winning dining, and spectacular ocean views.",
+        "seeMore": false
+    },
+    {
+        "id": 3,
+        "name": "Rome, Italy",
+        "price": "900",
+        "picture": "https://images.pexels.com/photos/532263/pexels-photo-532263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Explore the eternal city of Rome, home to ancient ruins, magnificent art, and delectable cuisine. Visit iconic landmarks like the Colosseum, Vatican City, and the Trevi Fountain. Wander through charming streets, enjoy authentic Italian pasta and gelato, and soak in the rich history and culture. Stay at the opulent Hassler Roma hotel, situated at the top of the Spanish Steps, offering luxurious rooms, fine dining, and impeccable service.",
+        "seeMore": false
+    },
+    {
+        "id": 4,
+        "name": "Rio de Janeiro, Brazil",
+        "price": "1300",
+        "picture": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Experience the vibrant energy of Rio de Janeiro, known for its stunning beaches, vibrant carnivals, and breathtaking landscapes. Relax on the famous Copacabana beach, hike up to the iconic Christ the Redeemer statue, and explore the lively neighborhoods of Ipanema and Santa Teresa. Immerse yourself in samba music, indulge in Brazilian cuisine, and soak in the captivating atmosphere. Stay at the luxurious Belmond Copacabana Palace, a historic hotel offering elegant accommodations, a rooftop pool, and panoramic ocean views.",
+        "seeMore": false
+    },
+    {
+        "id": 5,
+        "name": "Paris, France",
+        "price": "800",
+        "picture": "https://images.pexels.com/photos/1308940/pexels-photo-1308940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Paris, the capital of France, is renowned for its stunning architecture, rich history, and romantic ambiance. Explore iconic landmarks like the Eiffel Tower and the Louvre Museum, stroll along the charming streets of Montmartre, and indulge in delicious French cuisine at local cafes. Stay at the luxurious Le Meurice hotel, located in the heart of the city, offering elegant rooms, exceptional service, and breathtaking views of the Tuileries Garden.",
+        "seeMore": false
+    },
+    {
+        "id": 6,
+        "name": "Bali, Indonesia",
+        "price": "1200",
+        "picture": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Bali is a paradise island in Indonesia known for its beautiful beaches, lush landscapes, and vibrant culture. Immerse yourself in the tranquility of Ubud, visit ancient temples like Tanah Lot, and relax on the stunning beaches of Seminyak. Stay at the luxurious Ayana Resort and Spa, featuring world-class amenities, private villas with ocean views, and rejuvenating spa treatments.",
+        "seeMore": false
+    },
+    {
+        "id": 7,
+        "name": "New York City, USA",
+        "price": "1000",
+        "picture": "https://images.pexels.com/photos/2190283/pexels-photo-2190283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Experience the energy and excitement of New York City, the city that never sleeps. Explore iconic landmarks such as Times Square, the Statue of Liberty, and Central Park. Indulge in world-class shopping on Fifth Avenue, catch a Broadway show, and savor diverse cuisines from around the world. Stay at The Plaza Hotel, an iconic luxury hotel offering elegant rooms, exquisite dining options, and a prime location on Fifth Avenue.",
+        "seeMore": false
+    },
+    {
+        "id": 8,
+        "name": "Sydney, Australia",
+        "price": "1500",
+        "picture": "https://images.pexels.com/photos/783683/pexels-photo-783683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Sydney is a vibrant city in Australia known for its stunning harbor, iconic Sydney Opera House, and beautiful beaches. Take a ferry ride to explore the picturesque Sydney Harbor, visit Bondi Beach for sun and surf, and immerse yourself in the city's thriving arts and food scene. Stay at the luxurious Park Hyatt Sydney, offering unparalleled views of the harbor, luxurious accommodations, and exceptional dining experiences.",
+        "seeMore": false
+    },
+    {
+        "id": 9,
+        "name": "Barcelona, Spain",
+        "price": "950",
+        "picture": "https://images.pexels.com/photos/3779165/pexels-photo-3779165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Explore the vibrant city of Barcelona, known for its unique architecture, lively street life, and beautiful beaches. Visit the iconic Sagrada Familia, stroll along the lively Las Ramblas, and experience the artistic atmosphere of Park Güell. Indulge in delicious tapas, immerse yourself in the lively nightlife, and soak in the Mediterranean sun. Stay at the luxurious Hotel Arts Barcelona, offering stylish accommodations, Michelin-starred dining, and panoramic views of the city.",
+        "seeMore": false
+    },
+    {
+        "id": 10,
+        "name": "Kyoto, Japan",
+        "price": "1200",
+        "picture": "https://images.pexels.com/photos/707677/pexels-photo-707677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Discover the traditional charm of Kyoto, a city in Japan known for its historic temples, beautiful gardens, and traditional geisha culture. Explore iconic sites like Kinkaku-ji (Golden Pavilion), Fushimi Inari Shrine, and Arashiyama Bamboo Grove. Immerse yourself in the serene ambiance, participate in a tea ceremony, and savor authentic Japanese cuisine. Stay at the luxurious Hoshinoya Kyoto, offering a unique blend of traditional architecture, modern comforts, and serene river views.",
+        "seeMore": false
+    },
+    {
+        "id": 11,
+        "name": "Santorini, Greece",
+        "price": "1300",
+        "picture": "https://images.pexels.com/photos/161815/santorini-oia-greece-water-161815.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Experience the enchanting beauty of Santorini, a Greek island renowned for its whitewashed buildings, blue-domed churches, and breathtaking sunsets. Explore the picturesque village of Oia, visit ancient ruins like Akrotiri, and relax on the stunning beaches. Indulge in traditional Greek cuisine, explore local wineries, and immerse yourself in the relaxed island lifestyle. Stay at the luxurious Canaves Oia Suites, offering elegant accommodations, infinity pools, and panoramic views of the Aegean Sea.",
+        "seeMore": false
+    },
+    {
+        "id": 12,
+        "name": "Dubai, United Arab Emirates",
+        "price": "1600",
+        "picture": "https://images.pexels.com/photos/442579/pexels-photo-442579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "description": "Discover the modern marvels of Dubai, a city known for its luxurious skyscrapers, extravagant shopping malls, and desert landscapes. Visit iconic landmarks like the Burj Khalifa, Palm Jumeirah, and Dubai Mall. Indulge in world-class dining, experience thrilling desert safaris, and enjoy the vibrant nightlife. Immerse yourself in the rich Emirati culture, explore traditional souks, and relax on pristine beaches. Stay at the luxurious Burj Al Arab Jumeirah, an iconic sail-shaped hotel offering opulent accommodations, world-class dining, and breathtaking views of the Arabian Gulf.",
+        "seeMore": false
+    }
+]

@@ -1,0 +1,264 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.App {
+  width: 100%;
+
+}
+
+
+ul {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+li {
+  list-style-type: none;
+  text-decoration: underline;
+}
+
+.plane-bg-container {
+  width: 100%;
+  height: 500px;
+  background-image: url('./images/jetsetbg.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.select-holiday {
+  height: 40px;
+  width: 300px;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+option {
+  padding: 10px;
+}
+
+.holiday-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.holiday-containers {
+  width: 22%;
+}
+
+.hol-pics-container {
+  width: 100%;
+}
+
+.holiday-name {
+  width: 100%;
+  height: 75px;
+  display: flex;
+  align-items: center;
+}
+
+
+.hol-pics {
+  height: 150px;
+  width: 100%;
+}
+
+.hol-info-btn {
+  border: none;
+  background: none;
+  color: rgb(104, 104, 241)
+}
+
+.holiday-choice-wrapper {
+  width: 100%;
+}
+
+.hol-choice-container {
+  width: 50%;
+}
+
+.hol-pic-choice-container {
+  width: 100%;
+}
+
+.hol-pic-choice {
+  height: 150px;
+  width: 100%;
+}
+
+.booking-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.airports-select,
+.airport-inputs {
+  width: 200px;
+  padding: 5px;
+}
+
+.add-minus-btns {
+  width: 40px;
+  background: none;
+  border: 2px solid grey;
+  border-radius: 5px;
+}
+
+
+
+.confirmation-wrapper {
+  height: auto;
+  display: flex;
+  justify-content: center;
+
+}
+
+.tableWithBorders {
+  width: 90%;
+  border-collapse: collapse;
+}
+
+.tableWithBorders th,
+.tableWithBorders td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+th,
+td {
+  padding: 5px;
+}
+
+.margin {
+  margin: 50px 50px 0 0;
+}
+
+input {
+  padding: 5px;
+}
+
+.loader-container {
+  height: 100vh;
+}
+
+
+a {
+  cursor: pointer;
+}
+
+.footer-links {
+  width: 30%
+}
+
+.footer-copysymbol {
+  width: 70%;
+}
+
+.reviews-wrapper {
+  margin: 50px 0;
+}
+
+.review-cards {
+  width: 50%;
+}
+
+.top-page-btn-container {
+  display: none;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  .holiday-wrapper {
+    flex-direction: column;
+  }
+
+  .holiday-containers {
+    width: 80%;
+  }
+
+  .add-minus-btns {
+    border-radius: none;
+  }
+
+  .footer-links {
+    width: 40%
+  }
+
+  .footer-copysymbol {
+    width: 60%;
+  }
+
+  .review-cards {
+    width: 90%;
+
+  }
+
+}
+
+@media only screen and (min-width: 601px) and (max-width: 849px) {
+
+  .holiday-wrapper {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .holiday-containers {
+    width: 48%;
+  }
+
+  .footer-links {
+    width: 45%
+  }
+
+  .footer-copysymbol {
+    width: 55%;
+  }
+
+}
+
+@media only screen and (min-width: 850px) and (max-width: 1200px) {
+
+  .holiday-containers {
+    width: 30%;
+  }
+
+}
+
+@media only screen and (max-width: 765px) {
+  .holiday-choice-wrapper {
+    align-items: center;
+  }
+
+  .hol-choice-container {
+    width: 80%;
+    order: 2;
+  }
+
+  .booking-container {
+    width: 80%;
+    order: 1;
+  }
+}
+
+@media only screen and (min-width: 850px) {
+  .add-minus-btns:hover {
+    background: gray;
+    color: white;
+
+  }
+}
